@@ -118,6 +118,12 @@ OPERATIONAL SYSTEMS: _____________________
 DEPLOY TOOLS: _______________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
+<div>
+VERSION CONTROL PLATFORMS: _____________
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
+</div> 
 . 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
