@@ -78,14 +78,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 </div>
 <div>
-  BACK-END DEVELOPMENT: ___________________
+  BACK-END DEVELOPMENT: __________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  FRONT-END DEVELOPMENT: ________
+  FRONT-END DEVELOPMENT: _________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
@@ -95,7 +95,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  FULL STACK DEVELOPMENT: _________________________________
+  FULL STACK DEVELOPMENT: _________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
   <img src="https://github.com/Ajnus/Ajnus/blob/main/react_native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
@@ -104,18 +104,18 @@
 </div>
 <div>
 <div>
-  API TOOLS: ___________________________________________________
+  API TOOLS: ___________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="40" height="40"/>
 </div>  
-OPERATIONAL SYSTEMS: _____________________________________
+OPERATIONAL SYSTEMS: _____________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/Ajnus/Ajnus/blob/main/800px-GNewSense_3_logo_with_lettering%2C_blue.svg.png" title="Gnewsense" alt="Gnewsense" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 <div>
-DEPLOY TOOLS: ______________________________________________
+DEPLOY TOOLS: _______________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 . 
