@@ -1,6 +1,7 @@
 ### What's up, Winners?
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajnus&theme=dark&background=000000)](https://git.io/streak-stats)
+![Ajnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
 
 ### Hack'd with:
 <div>
@@ -131,13 +132,29 @@ AGILE MANAGEMENT: _________________________
 </div> 
 . 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnus&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   (PUC's "fault" ¯\\_(ツ)_/¯)
 
 ### My Gists:
 
 ![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=3c5de034228987b7892fe3178210ce42&owner=true&theme=dark)
+
+### Currently Coding:
+
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+
+### Project Repos:
+
+[![Dedão Wars](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=DEDAO-THUMB-WARS-Flutter-&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/DEDAO-THUMB-WARS-Flutter-)
+[![AutoBar Man](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419)
+[![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
 
 <!--
 **Ajnus/Ajnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
