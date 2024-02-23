@@ -137,7 +137,7 @@ AGILE MANAGEMENT: _________________________
 
 ### My Gists:
 
-![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=3c5de034228987b7892fe3178210ce42&owner=true&theme=dark)
+[![gists-readme](https://gists-readme.yizack.com/api/pin?user=Ajnus&id=3c5de034228987b7892fe3178210ce42&owner=true&theme=dark)](https://gist.github.com/Ajnus/3c5de034228987b7892fe3178210ce42)
 
 ### Currently Coding:
 
