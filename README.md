@@ -149,12 +149,11 @@ AGILE MANAGEMENT: _________________________
 [![AutoBar Man](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419)
 [![Mythic+_Chain](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=INF1305-Blockchain&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/INF1305-Blockchain/tree/master)
 [![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![The Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636)
+[![PUC FIT](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=PUC_Fit&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/PUC_Fit)
+[![LUDO](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=LUDO_PROGRAMACAO_MODULAR_INF1301&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/LUDO_PROGRAMACAO_MODULAR_INF1301)
+[![WoW Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=WORLD_OF_WARCRAFT_PATHFINDER&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/WORLD_OF_WARCRAFT_PATHFINDER)
+[![Last Redemption](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=Last_Redemption&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/Last_Redemption)
 
 <!--
 **Ajnus/Ajnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
