@@ -147,6 +147,7 @@ AGILE MANAGEMENT: _________________________
 
 [![Dedão Wars](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=DEDAO-THUMB-WARS-Flutter-&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/DEDAO-THUMB-WARS-Flutter-)
 [![AutoBar Man](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419)
+[![Mythic+_Chain](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=INF1305-Blockchain&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/INF1305-Blockchain/tree/master)
 [![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2)
 [![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
 [![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
