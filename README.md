@@ -145,7 +145,7 @@ AGILE MANAGEMENT: _________________________
 
 ### Project Repos:
 
-[![Dedão Wars](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=DEDAO-THUMB-WARS-Flutter-&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/DEDAO-THUMB-WARS-Flutter-)
+[![Dedão Wars](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=DEDAO-THUMB-WARS-Flutter-&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/DEDAO-THUMB-WARS-Flutter-)  ![dedao wars(8)](https://github.com/Ajnus/Ajnus/assets/8205907/4c9bddc2-369c-4661-b2cd-39101478f90a)
 [![AutoBar Man](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419)
 [![Mythic+_Chain](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=INF1305-Blockchain&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/INF1305-Blockchain/tree/master)
 [![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2)
