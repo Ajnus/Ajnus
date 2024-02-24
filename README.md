@@ -154,8 +154,8 @@ AGILE MANAGEMENT: _________________________
 
 [![LUDO](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=LUDO_PROGRAMACAO_MODULAR_INF1301&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/LUDO_PROGRAMACAO_MODULAR_INF1301) ___________ ![ludo(1)(1)](https://github.com/Ajnus/Ajnus/assets/8205907/2703e654-d111-47b8-92b7-67cdc42867e8)
 [![WoW Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=WORLD_OF_WARCRAFT_PATHFINDER&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/WORLD_OF_WARCRAFT_PATHFINDER) ___________ ![path2](https://github.com/Ajnus/Ajnus/assets/8205907/bd34b6f0-efd0-4d81-baca-eaca3128ecba)
+[![Last Redemption](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=Last_Redemption&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/Last_Redemption) ___________ ![4](https://github.com/Ajnus/Ajnus/assets/8205907/e77c0856-56b6-4c98-a45c-1ac08b497cd9)
 
-[![Last Redemption](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=Last_Redemption&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/Last_Redemption)
 
 <!--
 **Ajnus/Ajnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
