@@ -141,7 +141,7 @@ AGILE MANAGEMENT: _________________________
 
 ### Currently Coding:
 
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes)
+[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes) ___________ [![307222442-bb7bc28a-1b1b-4cdc-8ae8-b604939affb7](https://github.com/Ajnus/Ajnus/assets/8205907/4667786a-9c71-434d-b513-d14ea98abcf2)](https://www.hackerrank.com/profile/ajnasoares)
 
 ### Project Repos:
 
