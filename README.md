@@ -151,7 +151,8 @@ AGILE MANAGEMENT: _________________________
 [![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2) ___________ ![the forum(1)](https://github.com/Ajnus/Ajnus/assets/8205907/14b97144-81e1-4df7-b1b8-e7bc1ab03f63)
 [![The Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636) ___________ ![the blackjack](https://github.com/Ajnus/Ajnus/assets/8205907/0a714214-0516-49b5-93b2-b27bb8333185)
 [![PUC FIT](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=PUC_Fit&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/PUC_Fit)
-[![LUDO](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=LUDO_PROGRAMACAO_MODULAR_INF1301&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/LUDO_PROGRAMACAO_MODULAR_INF1301)
+
+[![LUDO](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=LUDO_PROGRAMACAO_MODULAR_INF1301&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/LUDO_PROGRAMACAO_MODULAR_INF1301) ___________ ![ludo(1)(1)](https://github.com/Ajnus/Ajnus/assets/8205907/2703e654-d111-47b8-92b7-67cdc42867e8)
 [![WoW Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=WORLD_OF_WARCRAFT_PATHFINDER&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/WORLD_OF_WARCRAFT_PATHFINDER)
 [![Last Redemption](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=Last_Redemption&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/Last_Redemption)
 
