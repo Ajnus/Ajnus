@@ -131,7 +131,7 @@ AGILE MANAGEMENT: _________________________
 </div> 
 . 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnus&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)    (PUC's "fault" ¯\\_(ツ)_/¯)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajnus&layout=donut-vertical&theme=chartreuse-dark&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)    (PUC's "fault" ¯\\_(ツ)_/¯)
 
 ![Ajnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
 
