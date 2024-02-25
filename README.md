@@ -131,7 +131,7 @@ AGILE MANAGEMENT: _________________________
 </div> 
 .
 
-[![Top Langs](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api/top-langs/?username=Ajnus&theme=chartreuse-dark&langs_count=15&hide=Meson,Processing,Shell,PowerShell,Makefile,CMake,Forth&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  ![Ajnus's GitHub stats](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)____ (PUC's "fault" ¯\\_(ツ)_/¯)
+[![Top Langs](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api/top-langs/?username=Ajnus&theme=chartreuse-dark&langs_count=15&hide=Meson,Processing,Shell,PowerShell,Makefile,CMake,Forth&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  (PUC's "fault" ¯\\_(ツ)_/¯)  ![Ajnus's GitHub stats](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
 
 
 ### My Gists:
