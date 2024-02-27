@@ -3,21 +3,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajnus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Hack'd with:
-<div>
-  GAME DEVELOPMENT: _____________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+
+  GAME DEVELOPMENT: ____________ [![Game Development](https://skillicons.dev/icons?i=c,cpp,cs,lua)](https://skillicons.dev)
   <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/directx.png" title="DirectX" alt="DirectX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-</div>
+  [![Game Development](https://skillicons.dev/icons?i=unity,java,python,dart,flutter)](https://skillicons.dev)
 <div>
   (GENERAL) SOFTWARE DEVELOPMENT: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -128,7 +119,7 @@ VERSION CONTROL PLATFORMS: _____________
 <div>
 AGILE MANAGEMENT: _________________________
   <img src="https://github.com/Ajnus/Ajnus/blob/main/scrum_new.png" title="SCRUM" alt="SCRUM" width="40" height="40"/>
-</div> 
+
 .
 
 [![Top Langs](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api/top-langs/?username=Ajnus&theme=chartreuse-dark&langs_count=15&hide=Meson,Processing,Shell,PowerShell,Makefile,CMake,Forth&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  (PUC's "fault" ¯\\_(ツ)_/¯)  ![Ajnus's GitHub stats](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
