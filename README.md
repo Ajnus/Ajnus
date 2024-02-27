@@ -4,7 +4,7 @@
 
 ### Hack'd with:
 <div>
-  GAME DEVELOPMENT: _____________________
+  GAME DEVELOPMENT: ______________
   <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
