@@ -49,7 +49,7 @@
 </div>
 <div>
   BLOCKCHAIN: _______________________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/png-transparent-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue-angle-thumbnail-removebg-preview.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/metamask.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@
 </div>
 <div>
   MOBILE DEVELOPMENT: ____________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/react_native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
@@ -91,7 +91,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
