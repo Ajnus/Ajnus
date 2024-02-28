@@ -75,7 +75,7 @@
 <div>
   MICROCONTROLLER PROGRAMMING: ______
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Rasperberry Pi" alt="Rasperberry Pi" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 </div>
