@@ -3,7 +3,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajnus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Hack'd with:
-_(mouseover for names)_
 <div>
   GAME DEVELOPMENT:
   
@@ -14,11 +13,11 @@ _(mouseover for names)_
   <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/directx.png" title="DirectX/Direct3D" alt="DirectX/Direct3D" width="40" height="40"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=unity" title="Unity" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 <div>
   (GENERAL) SOFTWARE DEVELOPMENT: ____
@@ -29,7 +28,7 @@ _(mouseover for names)_
 </div>
 <div>
   ARTIFICIAL INTELLIGENCE: _________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <div>
