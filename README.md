@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-jam-ajna-soares-projects.vercel.app/?user=Ajnus&theme=dark&background=000000&locale=pt-br)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ajnus&theme=matrix&no-frame=true&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hack'd with:
 <div>
   GAME DEVELOPMENT:
