@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 <div>
   (GENERAL) SOFTWARE DEVELOPMENT: ____
