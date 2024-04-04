@@ -21,8 +21,7 @@
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-</div>
-<div>
+
   (GENERAL) SOFTWARE DEVELOPMENT: ____
   <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
