@@ -1,6 +1,6 @@
 ### What's up, Winners?
 
-[![GitHub Streak](https://github-readme-streak-stats-jam-ajna-soares-projects.vercel.app/?user=Ajnus&theme=dark&background=000000&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-jam-ajna-soares-projects.vercel.app/?user=Ajnus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ajnus&theme=matrix&no-frame=true&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -53,7 +53,60 @@
 <div>
   BLOCKCHAIN: _______________________________
   <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ajnus/Ajnus/blob/main/png-transparent-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue-angle-thumbnail-removebg-preview.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;eight="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=lua" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ajnus/Ajnus/blob/main/directx.png" title="DirectX/Direct3D" alt="DirectX/Direct3D" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=unity" title="Unity" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  (GENERAL) SOFTWARE DEVELOPMENT: ____
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ajnus/Ajnus/blob/main/assembly.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  ARTIFICIAL INTELLIGENCE: _________________
+  <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  ALGORITHM ANALYSIS: _____________________
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  DATA SCIENCE: ______________________________
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  DATABASES: _________________________________
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="ProstgreSQL" alt="ProstgreSQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  BLOCKCHAIN: _______________________________
+  <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/png-transparent-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue-angle-thumbnail-removebg-preview.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ajnus/Ajnus/blob/main/metamask.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  MOBILE DEVELOPMENT: ____________________
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ajnus/Ajnus/blob/main/metamask.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
