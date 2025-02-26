@@ -1,10 +1,18 @@
 ### What's up, Winners?
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/Ajnus/stats)
-
 [![GitHub Streak](https://github-readme-streak-stats-jam-ajna-soares-projects.vercel.app/?user=Ajnus&theme=dark&background=000000&locale=pt-br)](https://git.io/streak-stats)
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/Ajnus/stats)  (public)<div></div> 
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/Ajnus/quirk)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Ajnus/archtype)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ajnus&theme=matrix&no-frame=true&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/Ajnus/private-stats)  (private)<div></div>
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Ajnus/highlights)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Ajnus/contributions)
+
+
 
 ### Hack'd with:
 <div>
